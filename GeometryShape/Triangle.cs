@@ -16,8 +16,8 @@ namespace GeometryShape
                 sideB = b;
                 sideC = c;
                 if (
-                    (a + b > c) &&
-                    (a + c > b) &&
+                    (a + b > c) ||
+                    (a + c > b) ||
                     (b + c > a)
                     )
                 {
