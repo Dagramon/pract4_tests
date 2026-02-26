@@ -49,5 +49,32 @@ namespace ShapeTest
 
             Assert.Equal(expectedPerimeter, rectangle.Perimeter());
         }
+        [Fact]
+        public void TriangleAreaCalculateTest()
+        {
+            const double a = 5;
+            const double b = 5;
+            const double c = 5;
+
+            double p = (a + b + c) / 2;
+            double expectedArea = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+
+            Triangle triangle = new(a, b, c);
+
+            Assert.Equal(expectedArea, triangle.Area());
+        }
+        [Fact]
+        public void TrianglePerimeterCalculateTestFailedOnPurpose()
+        {
+            const double a = 5;
+            const double b = 5;
+            const double c = 5;
+
+            double expectedPerimeter = a * b * c;
+
+            Triangle triangle = new(a, b, c);
+
+            Assert.Equal(expectedPerimeter, triangle.Perimeter());
+        }
     }
 }
