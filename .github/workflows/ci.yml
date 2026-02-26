@@ -3,7 +3,7 @@ name: CI
 
 on:
   pull_request;
-    branches: ["main"]
+    branch: ["main"]
 jobs:
   build:
     runs-on: windows-latest

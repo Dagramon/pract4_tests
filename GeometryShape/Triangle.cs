@@ -16,9 +16,9 @@ namespace GeometryShape
                 sideB = b;
                 sideC = c;
                 if (
-                    (a + b > c) ||
-                    (a + c > b) ||
-                    (b + c > a)
+                    (a + b < c) ||
+                    (a + c < b) ||
+                    (b + c < a)
                     )
                 {
                     throw new ArgumentException("Неккоректные входные данные для треугольника");
