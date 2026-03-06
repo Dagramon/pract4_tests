@@ -70,7 +70,7 @@ namespace ShapeTest
             const double b = 5;
             const double c = 5;
 
-            double expectedPerimeter = a * b * c;
+            double expectedPerimeter = a + b + c;
 
             Triangle triangle = new(a, b, c);
 

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Damir\\source\\repos\\pract4_tests\\",
+  "WorkspaceRootPath": "C:\\Users\\st310-10\\source\\repos\\pract4_tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58C67860-0F40-A534-D3CD-43A7B4286912}|ShapeTest\\ShapeTest.csproj|c:\\users\\damir\\source\\repos\\pract4_tests\\shapetest\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58C67860-0F40-A534-D3CD-43A7B4286912}|ShapeTest\\ShapeTest.csproj|c:\\users\\st310-10\\source\\repos\\pract4_tests\\shapetest\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58C67860-0F40-A534-D3CD-43A7B4286912}|ShapeTest\\ShapeTest.csproj|solutionrelative:shapetest\\shapetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5699E2E-BD7D-D623-F476-7EB787E2DD8B}|GeometryShape\\GeometryShape.csproj|c:\\users\\damir\\source\\repos\\pract4_tests\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5699E2E-BD7D-D623-F476-7EB787E2DD8B}|GeometryShape\\GeometryShape.csproj|c:\\users\\st310-10\\source\\repos\\pract4_tests\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5699E2E-BD7D-D623-F476-7EB787E2DD8B}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract4_tests\\GeometryShape\\Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract4_tests\\GeometryShape\\Triangle.cs",
               "RelativeDocumentMoniker": "GeometryShape\\Triangle.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract4_tests\\GeometryShape\\Triangle.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract4_tests\\GeometryShape\\Triangle.cs",
               "RelativeToolTip": "GeometryShape\\Triangle.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwCgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T05:28:15.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T05:28:15.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ShapeTests.cs",
-              "DocumentMoniker": "C:\\Users\\Damir\\source\\repos\\pract4_tests\\ShapeTest\\ShapeTests.cs",
+              "DocumentMoniker": "C:\\Users\\st310-10\\source\\repos\\pract4_tests\\ShapeTest\\ShapeTests.cs",
               "RelativeDocumentMoniker": "ShapeTest\\ShapeTests.cs",
-              "ToolTip": "C:\\Users\\Damir\\source\\repos\\pract4_tests\\ShapeTest\\ShapeTests.cs",
+              "ToolTip": "C:\\Users\\st310-10\\source\\repos\\pract4_tests\\ShapeTest\\ShapeTests.cs",
               "RelativeToolTip": "ShapeTest\\ShapeTests.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAmwEgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T05:23:10.576Z",
               "EditorCaption": ""
